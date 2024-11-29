@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'NSTVValidator_Example' do
+  pod 'NSTVValidator', :path => '../'
+
+  target 'NSTVValidator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
