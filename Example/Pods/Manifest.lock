@@ -1,0 +1,16 @@
+PODS:
+  - NSTVValidator (0.1.0)
+
+DEPENDENCIES:
+  - NSTVValidator (from `../`)
+
+EXTERNAL SOURCES:
+  NSTVValidator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSTVValidator: d1dba91fe8170184d8cffae90fdbc9089f2ccaf7
+
+PODFILE CHECKSUM: 3d4c8df791dedc1b56c3f11c5c6079bda164de57
+
+COCOAPODS: 1.16.2

@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import NSTVValidator
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let email = NSTVValidator.Validator.validEmail("test@gmail.com")
+        print("Validate email: \(email)")
     }
 
     override func didReceiveMemoryWarning() {

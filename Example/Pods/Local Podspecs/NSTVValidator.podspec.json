@@ -1,0 +1,22 @@
+{
+  "name": "NSTVValidator",
+  "version": "0.1.0",
+  "summary": "A short description of NSTVValidator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/34115811/NSTVValidator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "34115811": "sotheavuth.nguon@canadiabank.com.kh"
+  },
+  "source": {
+    "git": "https://github.com/34115811/NSTVValidator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NSTVValidator/Classes/**/*"
+}
