@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NSTVValidator'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of NSTVValidator.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/sotheavuthnguon/NSTVValidator.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Sotheavuth Nguon' => 'sotheavuth.nguon@yahoo.com' }
+  s.author           = { 'Sotheavuth Nguon' => 'nguonsotheavuth1@gmail.com' }
   s.source           = { :git => 'https://github.com/sotheavuthnguon/NSTVValidator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
